@@ -1,0 +1,2703 @@
+{
+ "name": "سیستم عامل",
+ "type": "private_group",
+ "id": 854313447,
+ "messages": [
+  {
+   "id": 306335,
+   "type": "service",
+   "date": "2023-02-26T11:06:54",
+   "date_unixtime": "1677397014",
+   "actor": "Taha Ndrzdh",
+   "actor_id": "user815760549",
+   "action": "create_group",
+   "title": "سیستم عامل",
+   "members": [
+    "Taha Ndrzdh",
+    "Aghaee",
+    "A.aghazadeh"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306336,
+   "type": "service",
+   "date": "2023-02-26T11:07:23",
+   "date_unixtime": "1677397043",
+   "actor": "Mohammad Mohammadi",
+   "actor_id": "user554280765",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306337,
+   "type": "service",
+   "date": "2023-02-26T11:07:30",
+   "date_unixtime": "1677397050",
+   "actor": "Taha Ndrzdh",
+   "actor_id": "user815760549",
+   "action": "remove_members",
+   "members": [
+    "A.aghazadeh"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306338,
+   "type": "service",
+   "date": "2023-02-26T11:07:43",
+   "date_unixtime": "1677397063",
+   "actor": "Mohammad Mohammadi",
+   "actor_id": "user554280765",
+   "action": "invite_members",
+   "members": [
+    "Negar"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306339,
+   "type": "service",
+   "date": "2023-02-26T11:07:53",
+   "date_unixtime": "1677397073",
+   "actor": "آقازاده",
+   "actor_id": "user5923762628",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306340,
+   "type": "service",
+   "date": "2023-02-26T11:07:56",
+   "date_unixtime": "1677397076",
+   "actor": "Taha Ndrzdh",
+   "actor_id": "user815760549",
+   "action": "remove_members",
+   "members": [
+    "Negar"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306341,
+   "type": "service",
+   "date": "2023-02-26T11:08:18",
+   "date_unixtime": "1677397098",
+   "actor": "ارکان",
+   "actor_id": "user110161883",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306342,
+   "type": "service",
+   "date": "2023-02-26T11:08:19",
+   "date_unixtime": "1677397099",
+   "actor": "Mohammad Mohammadi",
+   "actor_id": "user554280765",
+   "action": "invite_members",
+   "members": [
+    ":)"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306343,
+   "type": "service",
+   "date": "2023-02-26T11:08:41",
+   "date_unixtime": "1677397121",
+   "actor": "Mohammad Mohammadi",
+   "actor_id": "user554280765",
+   "action": "invite_members",
+   "members": [
+    "Miss.khodabakhshii"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306344,
+   "type": "service",
+   "date": "2023-02-26T11:09:10",
+   "date_unixtime": "1677397150",
+   "actor": "Mohammad Mohammadi",
+   "actor_id": "user554280765",
+   "action": "invite_members",
+   "members": [
+    "♈Mr_hulk"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306345,
+   "type": "service",
+   "date": "2023-02-26T11:10:22",
+   "date_unixtime": "1677397222",
+   "actor": "Miss.khodabakhshii",
+   "actor_id": "user5222640012",
+   "action": "invite_members",
+   "members": [
+    "웃유 فاطمه 웃유"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306346,
+   "type": "message",
+   "date": "2023-02-26T11:10:22",
+   "date_unixtime": "1677397222",
+   "from": "Taha Ndrzdh",
+   "from_id": "user815760549",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/+B4JWGtuMZ4U3ZWVk"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/+B4JWGtuMZ4U3ZWVk"
+    }
+   ]
+  },
+  {
+   "id": 306347,
+   "type": "service",
+   "date": "2023-02-26T11:11:00",
+   "date_unixtime": "1677397260",
+   "actor": "ܛܟܡܓ",
+   "actor_id": "user5172257259",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306348,
+   "type": "service",
+   "date": "2023-02-26T11:13:16",
+   "date_unixtime": "1677397396",
+   "actor": "Hossein",
+   "actor_id": "user155955163",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306349,
+   "type": "service",
+   "date": "2023-02-26T11:13:32",
+   "date_unixtime": "1677397412",
+   "actor": "Hossein",
+   "actor_id": "user155955163",
+   "action": "invite_members",
+   "members": [
+    "@*.*Amin*.*@"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306350,
+   "type": "service",
+   "date": "2023-02-26T11:13:45",
+   "date_unixtime": "1677397425",
+   "actor": "Hossein",
+   "actor_id": "user155955163",
+   "action": "invite_members",
+   "members": [
+    "Pouria"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306488,
+   "type": "service",
+   "date": "2023-02-26T18:39:25",
+   "date_unixtime": "1677424165",
+   "actor": "Peiman",
+   "actor_id": "user1549424629",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 306489,
+   "type": "service",
+   "date": "2023-02-26T18:59:14",
+   "date_unixtime": "1677425354",
+   "actor": "Mahyar Mohammadi",
+   "actor_id": "user5031016772",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 308275,
+   "type": "service",
+   "date": "2023-03-05T09:06:11",
+   "date_unixtime": "1677994571",
+   "actor": "ܛܟܡܓ",
+   "actor_id": "user5172257259",
+   "action": "invite_members",
+   "members": [
+    "جواد"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 311113,
+   "type": "service",
+   "date": "2023-04-09T09:26:46",
+   "date_unixtime": "1681019806",
+   "actor": "ܛܟܡܓ",
+   "actor_id": "user5172257259",
+   "action": "invite_members",
+   "members": [
+    "S.m مدرسی"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 311690,
+   "type": "service",
+   "date": "2023-04-17T02:20:27",
+   "date_unixtime": "1681685427",
+   "actor": "ارکان",
+   "actor_id": "user110161883",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313258,
+   "type": "message",
+   "date": "2023-04-29T13:33:09",
+   "date_unixtime": "1682762589",
+   "from": "S.m مدرسی",
+   "from_id": "user459606056",
+   "text": "سلام کسی جزوه اش کامل هست بفرسته تو گروه لطفا.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام کسی جزوه اش کامل هست بفرسته تو گروه لطفا."
+    }
+   ]
+  },
+  {
+   "id": 313905,
+   "type": "message",
+   "date": "2023-05-07T10:18:51",
+   "date_unixtime": "1683442131",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "forwarded_from": "Farbod",
+   "photo": "photos/photo_1@07-05-2023_10-18-51.jpg",
+   "width": 846,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313906,
+   "type": "service",
+   "date": "2023-05-07T10:20:00",
+   "date_unixtime": "1683442200",
+   "actor": "جواد",
+   "actor_id": "user570615414",
+   "action": "invite_members",
+   "members": [
+    "nazanin zr"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313907,
+   "type": "message",
+   "date": "2023-05-07T10:20:12",
+   "date_unixtime": "1683442212",
+   "from": "nazanin zr",
+   "from_id": "user940424251",
+   "photo": "photos/photo_2@07-05-2023_10-20-12.jpg",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313908,
+   "type": "message",
+   "date": "2023-05-07T10:20:12",
+   "date_unixtime": "1683442212",
+   "from": "nazanin zr",
+   "from_id": "user940424251",
+   "photo": "photos/photo_3@07-05-2023_10-20-12.jpg",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313909,
+   "type": "service",
+   "date": "2023-05-07T10:20:36",
+   "date_unixtime": "1683442236",
+   "actor": "p N",
+   "actor_id": "user845771069",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313910,
+   "type": "service",
+   "date": "2023-05-07T10:20:53",
+   "date_unixtime": "1683442253",
+   "actor": "Ftm.hashemi",
+   "actor_id": "user1124693948",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313911,
+   "type": "service",
+   "date": "2023-05-07T10:21:05",
+   "date_unixtime": "1683442265",
+   "actor": "Paradox of existence",
+   "actor_id": "user137515309",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313912,
+   "type": "service",
+   "date": "2023-05-07T10:21:20",
+   "date_unixtime": "1683442280",
+   "actor": "مَحبوبَم🐿",
+   "actor_id": "user1316674711",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313913,
+   "type": "service",
+   "date": "2023-05-07T10:22:13",
+   "date_unixtime": "1683442333",
+   "actor": "-LOYΔLᴵᴿ",
+   "actor_id": "user91794872",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313914,
+   "type": "service",
+   "date": "2023-05-07T10:22:13",
+   "date_unixtime": "1683442333",
+   "actor": "مَحبوبَم🐿",
+   "actor_id": "user1316674711",
+   "action": "invite_members",
+   "members": [
+    "ᴬᵐⁱʳ"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313915,
+   "type": "message",
+   "date": "2023-05-07T10:22:34",
+   "date_unixtime": "1683442354",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "forwarded_from": "nazanin zr",
+   "photo": "photos/photo_2@07-05-2023_10-20-12.jpg",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313916,
+   "type": "message",
+   "date": "2023-05-07T10:22:34",
+   "date_unixtime": "1683442354",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "forwarded_from": "nazanin zr",
+   "photo": "photos/photo_3@07-05-2023_10-20-12.jpg",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313917,
+   "type": "service",
+   "date": "2023-05-07T10:24:15",
+   "date_unixtime": "1683442455",
+   "actor": "M",
+   "actor_id": "user727024169",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313918,
+   "type": "service",
+   "date": "2023-05-07T10:30:37",
+   "date_unixtime": "1683442837",
+   "actor": "Negar",
+   "actor_id": "user1786423096",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313919,
+   "type": "service",
+   "date": "2023-05-07T10:44:40",
+   "date_unixtime": "1683443680",
+   "actor": "Taha Ndrzdh",
+   "actor_id": "user815760549",
+   "action": "invite_members",
+   "members": [
+    "Moeid Rahmani"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313920,
+   "type": "service",
+   "date": "2023-05-07T10:55:47",
+   "date_unixtime": "1683444347",
+   "actor": "Mohammad Hosein Mpoor",
+   "actor_id": "user665892822",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313921,
+   "type": "message",
+   "date": "2023-05-07T10:59:44",
+   "date_unixtime": "1683444584",
+   "from": "nazanin zr",
+   "from_id": "user940424251",
+   "photo": "photos/photo_6@07-05-2023_10-59-44.jpg",
+   "width": 1280,
+   "height": 705,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313925,
+   "type": "service",
+   "date": "2023-05-07T16:11:28",
+   "date_unixtime": "1683463288",
+   "actor": "Manucher Manucheri Nia",
+   "actor_id": "user128227687",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313927,
+   "type": "service",
+   "date": "2023-05-07T16:56:54",
+   "date_unixtime": "1683466014",
+   "actor": "Ali Dehghan",
+   "actor_id": "user773603553",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 313936,
+   "type": "service",
+   "date": "2023-05-07T19:01:32",
+   "date_unixtime": "1683473492",
+   "actor": "Seraj",
+   "actor_id": "user1030305825",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314044,
+   "type": "service",
+   "date": "2023-05-08T21:21:37",
+   "date_unixtime": "1683568297",
+   "actor": "🍃ツ←MǾΈïN→ツ🍃",
+   "actor_id": "user89321452",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314066,
+   "type": "service",
+   "date": "2023-05-09T00:06:16",
+   "date_unixtime": "1683578176",
+   "actor": "AJ",
+   "actor_id": "user5544374109",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314067,
+   "type": "service",
+   "date": "2023-05-09T00:06:47",
+   "date_unixtime": "1683578207",
+   "actor": "AJ",
+   "actor_id": "user5544374109",
+   "action": "remove_members",
+   "members": [
+    "AJ"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314270,
+   "type": "message",
+   "date": "2023-05-14T08:23:53",
+   "date_unixtime": "1684040033",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": ".",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "id": 314271,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_7@14-05-2023_08-27-20.jpg",
+   "width": 826,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314272,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_8@14-05-2023_08-27-20.jpg",
+   "width": 888,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314273,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_9@14-05-2023_08-27-20.jpg",
+   "width": 837,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314274,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_10@14-05-2023_08-27-20.jpg",
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314275,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_11@14-05-2023_08-27-20.jpg",
+   "width": 866,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314276,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_12@14-05-2023_08-27-20.jpg",
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314277,
+   "type": "message",
+   "date": "2023-05-14T08:27:20",
+   "date_unixtime": "1684040240",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_13@14-05-2023_08-27-20.jpg",
+   "width": 981,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314278,
+   "type": "service",
+   "date": "2023-05-14T08:54:20",
+   "date_unixtime": "1684041860",
+   "actor": "@*.*Amin*.*@",
+   "actor_id": "user102502454",
+   "action": "invite_members",
+   "members": [
+    "Hossein"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314296,
+   "type": "service",
+   "date": "2023-05-14T18:51:41",
+   "date_unixtime": "1684077701",
+   "actor": "Seraj",
+   "actor_id": "user1030305825",
+   "action": "remove_members",
+   "members": [
+    "Seraj"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314816,
+   "type": "message",
+   "date": "2023-05-21T10:41:18",
+   "date_unixtime": "1684653078",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_14@21-05-2023_10-41-18.jpg",
+   "width": 955,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314817,
+   "type": "message",
+   "date": "2023-05-21T10:56:11",
+   "date_unixtime": "1684653971",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_15@21-05-2023_10-56-11.jpg",
+   "width": 914,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314818,
+   "type": "message",
+   "date": "2023-05-21T10:56:11",
+   "date_unixtime": "1684653971",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_16@21-05-2023_10-56-11.jpg",
+   "width": 950,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314819,
+   "type": "message",
+   "date": "2023-05-21T10:56:11",
+   "date_unixtime": "1684653971",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_17@21-05-2023_10-56-11.jpg",
+   "width": 916,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 314820,
+   "type": "message",
+   "date": "2023-05-21T11:14:41",
+   "date_unixtime": "1684655081",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "photo": "photos/photo_18@21-05-2023_11-14-41.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 315428,
+   "type": "message",
+   "date": "2023-05-28T09:23:37",
+   "date_unixtime": "1685253217",
+   "from": ":)",
+   "from_id": "user1302433938",
+   "forwarded_from": ":)",
+   "file": "(File unavailable, please try again later)",
+   "thumbnail": "files/To Word 05-28-2023 08.29.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": "سیستم عامل",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سیستم عامل"
+    }
+   ]
+  },
+  {
+   "id": 316432,
+   "type": "message",
+   "date": "2023-06-01T17:08:13",
+   "date_unixtime": "1685626693",
+   "edited": "2023-06-14T08:55:53",
+   "edited_unixtime": "1686720353",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "file": "(File unavailable, please try again later)",
+   "thumbnail": "files/جزوه سیستم عامل.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 316433,
+   "type": "message",
+   "date": "2023-06-01T17:08:31",
+   "date_unixtime": "1685626711",
+   "edited": "2023-06-02T16:35:02",
+   "edited_unixtime": "1685711102",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "سلام\nجزوه درس سیستم عامل دست نویس خودم هست\nچون این درس نوشتاری و جزوه نویسی زیادی داشت چنتا از دوستان جزوشو خواستن\nی بار اسکن کردم کل جزوه رو تا اگه کسی جزوش ناقصه بتونه تکمیل‌کنه\nفقط روی تمرینات دوستان ب حل من استناد نکنن مخصوصا تمرینای اخرین جلسه\nموفق باشید🤍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nجزوه درس سیستم عامل دست نویس خودم هست\nچون این درس نوشتاری و جزوه نویسی زیادی داشت چنتا از دوستان جزوشو خواستن\nی بار اسکن کردم کل جزوه رو تا اگه کسی جزوش ناقصه بتونه تکمیل‌کنه\nفقط روی تمرینات دوستان ب حل من استناد نکنن مخصوصا تمرینای اخرین جلسه\nموفق باشید🤍"
+    }
+   ]
+  },
+  {
+   "id": 316444,
+   "type": "message",
+   "date": "2023-06-02T01:16:24",
+   "date_unixtime": "1685655984",
+   "edited": "2023-06-02T03:04:19",
+   "edited_unixtime": "1685662459",
+   "from": "Taha Ndrzdh",
+   "from_id": "user815760549",
+   "reply_to_message_id": 316433,
+   "text": "Damet garm🫂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Damet garm🫂"
+    }
+   ]
+  },
+  {
+   "id": 316837,
+   "type": "message",
+   "date": "2023-06-07T12:46:17",
+   "date_unixtime": "1686129377",
+   "edited": "2023-06-07T14:09:03",
+   "edited_unixtime": "1686134343",
+   "from": "جواد",
+   "from_id": "user570615414",
+   "reply_to_message_id": 316433,
+   "text": "تشکر از شما آقای زارع😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تشکر از شما آقای زارع😂"
+    }
+   ]
+  },
+  {
+   "id": 317018,
+   "type": "message",
+   "date": "2023-06-11T13:24:58",
+   "date_unixtime": "1686477298",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "مرسی استاد ک اطلاع دادین🌹",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "مرسی استاد ک اطلاع دادین🌹"
+    }
+   ]
+  },
+  {
+   "id": 317029,
+   "type": "message",
+   "date": "2023-06-11T16:02:58",
+   "date_unixtime": "1686486778",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "reply_to_message_id": 317017,
+   "text": "خیلی ممنون استاد ❤️\n\nانشالله هوامون رو داشته باشین",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خیلی ممنون استاد ❤️\n\nانشالله هوامون رو داشته باشین"
+    }
+   ]
+  },
+  {
+   "id": 317382,
+   "type": "message",
+   "date": "2023-06-21T13:26:12",
+   "date_unixtime": "1687341372",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "سلام\nامروز دایره امتحانات اعلام کرد که هر کس طبق تاریخ موجود در ابلاغ امتحاناتش برای آزمون درس سیستم عامل شرکت کند. پاسخنامه افراد برای همان روز صادر می شود. یعنی گروهی برای روز ۵ تیر و گروهی ۱۱ تیرماه.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nامروز دایره امتحانات اعلام کرد که هر کس طبق تاریخ موجود در ابلاغ امتحاناتش برای آزمون درس سیستم عامل شرکت کند. پاسخنامه افراد برای همان روز صادر می شود. یعنی گروهی برای روز ۵ تیر و گروهی ۱۱ تیرماه."
+    }
+   ]
+  },
+  {
+   "id": 317383,
+   "type": "message",
+   "date": "2023-06-21T13:28:16",
+   "date_unixtime": "1687341496",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "یعنی دو نوع سوال طرح خواهد شد یکی برای ۵ تیر و یکی برای ۱۱ تیر.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "یعنی دو نوع سوال طرح خواهد شد یکی برای ۵ تیر و یکی برای ۱۱ تیر."
+    }
+   ]
+  },
+  {
+   "id": 317385,
+   "type": "message",
+   "date": "2023-06-21T13:29:18",
+   "date_unixtime": "1687341558",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 317383,
+   "text": "🥺",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🥺"
+    }
+   ]
+  },
+  {
+   "id": 317386,
+   "type": "message",
+   "date": "2023-06-21T13:29:27",
+   "date_unixtime": "1687341567",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "زحمتتون میشه ک استاد💔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "زحمتتون میشه ک استاد💔"
+    }
+   ]
+  },
+  {
+   "id": 317387,
+   "type": "message",
+   "date": "2023-06-21T13:29:37",
+   "date_unixtime": "1687341577",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "اگه کسی رو می‌شناسید داخل گروه نیست حتما اطلاع رسانی کنید امتحان را از دست ندهد.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگه کسی رو می‌شناسید داخل گروه نیست حتما اطلاع رسانی کنید امتحان را از دست ندهد."
+    }
+   ]
+  },
+  {
+   "id": 317388,
+   "type": "message",
+   "date": "2023-06-21T13:30:00",
+   "date_unixtime": "1687341600",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 317385,
+   "text": "چاره ای نیست دیگه😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چاره ای نیست دیگه😉"
+    }
+   ]
+  },
+  {
+   "id": 317389,
+   "type": "message",
+   "date": "2023-06-21T13:30:11",
+   "date_unixtime": "1687341611",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 317388,
+   "text": "🥲❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🥲❤️"
+    }
+   ]
+  },
+  {
+   "id": 317390,
+   "type": "message",
+   "date": "2023-06-21T13:30:16",
+   "date_unixtime": "1687341616",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 317387,
+   "text": "چشم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چشم"
+    }
+   ]
+  },
+  {
+   "id": 317395,
+   "type": "message",
+   "date": "2023-06-21T13:53:41",
+   "date_unixtime": "1687343021",
+   "edited": "2023-06-21T14:06:35",
+   "edited_unixtime": "1687343795",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 317382,
+   "text": "استاد طبق کارت ورود ب جلسه دوتا امتحان تخصصی تو ی روز و ی ساعته!\nهم درس شما هم درس طراحی زبان برنامه نویسی استاد عمادی ۱۱ تیر ساعت ۱۴ هستن\nالان این موضوع انصافه ک تا قرون اخر باید پرداخت کرد بدهی رو بعد دوتا امتحان تخصصی تو ی ساعت و زمان باشه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد طبق کارت ورود ب جلسه دوتا امتحان تخصصی تو ی روز و ی ساعته!\nهم درس شما هم درس طراحی زبان برنامه نویسی استاد عمادی ۱۱ تیر ساعت ۱۴ هستن\nالان این موضوع انصافه ک تا قرون اخر باید پرداخت کرد بدهی رو بعد دوتا امتحان تخصصی تو ی ساعت و زمان باشه؟"
+    }
+   ]
+  },
+  {
+   "id": 317399,
+   "type": "message",
+   "date": "2023-06-21T14:14:39",
+   "date_unixtime": "1687344279",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "photo": "photos/photo_19@21-06-2023_14-14-39.jpg",
+   "width": 591,
+   "height": 1280,
+   "text": "استاد باورکنید نمیشه تو ی ساعت هم راهرو شماره ۱ باشیم هم راهرو شماره ۴ هم صندلی ۲۷ هم صندلی ۵۴\nحداقل کاری ک میتونن برامون انجام بدن تغییر ساعتشه!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد باورکنید نمیشه تو ی ساعت هم راهرو شماره ۱ باشیم هم راهرو شماره ۴ هم صندلی ۲۷ هم صندلی ۵۴\nحداقل کاری ک میتونن برامون انجام بدن تغییر ساعتشه!"
+    }
+   ]
+  },
+  {
+   "id": 317406,
+   "type": "message",
+   "date": "2023-06-21T15:00:54",
+   "date_unixtime": "1687347054",
+   "from": "S.m مدرسی",
+   "from_id": "user459606056",
+   "text": "راست میگه گربه شرودینگر که نیست",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "راست میگه گربه شرودینگر که نیست"
+    }
+   ]
+  },
+  {
+   "id": 317407,
+   "type": "message",
+   "date": "2023-06-21T15:06:55",
+   "date_unixtime": "1687347415",
+   "edited": "2023-06-21T15:07:07",
+   "edited_unixtime": "1687347427",
+   "from": "Ftm.hashemi",
+   "from_id": "user1124693948",
+   "text": "من پیام دادم ب دکتر گندمی ک‌اگ میشه امتحان ۵ام باشه\nگفتن امتحانتون همون ۵ام هست😂🤦🏼‍♀️توی کانال مثل اینکه گذاشتن ولی من کانالو ندارم نمیدونم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من پیام دادم ب دکتر گندمی ک‌اگ میشه امتحان ۵ام باشه\nگفتن امتحانتون همون ۵ام هست😂🤦🏼‍♀️توی کانال مثل اینکه گذاشتن ولی من کانالو ندارم نمیدونم"
+    }
+   ]
+  },
+  {
+   "id": 317408,
+   "type": "message",
+   "date": "2023-06-21T15:07:47",
+   "date_unixtime": "1687347467",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "forwarded_from": "کانال اطلاع رسانی دانشجویان کارشناسی کامپیوتر",
+   "text": "با سلام\nنکته خیلی مهم در رابطه دانشجویانی که درس سیستم عامل دارند 👇👇\n\nتاریخ امتحان پایان ترم درس سیستم عامل استاد آقایی هر دو گروه، \n5 تیرماه ساعت 14 هست.\n\nبا آرزوی موفقیت",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "با سلام\nنکته خیلی مهم در رابطه دانشجویانی که درس سیستم عامل دارند 👇👇\n\nتاریخ امتحان پایان ترم درس سیستم عامل استاد آقایی هر دو گروه، \n5 تیرماه ساعت 14 هست.\n\nبا آرزوی موفقیت"
+    }
+   ]
+  },
+  {
+   "id": 317409,
+   "type": "message",
+   "date": "2023-06-21T15:08:48",
+   "date_unixtime": "1687347528",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "بله اینو استاد گندمی گذاشتن\nولی استاد اقایی میگن امروز دایره امتحانات پیامشون داده گفتن همون روز امتحان ثبت شده ت کارت ورود ب جلسه باید امتحان بدن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بله اینو استاد گندمی گذاشتن\nولی استاد اقایی میگن امروز دایره امتحانات پیامشون داده گفتن همون روز امتحان ثبت شده ت کارت ورود ب جلسه باید امتحان بدن"
+    }
+   ]
+  },
+  {
+   "id": 317410,
+   "type": "message",
+   "date": "2023-06-21T15:10:00",
+   "date_unixtime": "1687347600",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": [
+    "استاد این دو دستگی ب ضرر کی تموم میشه؟\nدانشگاه ک پولشو تا اخر گرفته یا دانشجو؟\n",
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد این دو دستگی ب ضرر کی تموم میشه؟\nدانشگاه ک پولشو تا اخر گرفته یا دانشجو؟\n"
+    },
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 317411,
+   "type": "message",
+   "date": "2023-06-21T16:33:22",
+   "date_unixtime": "1687352602",
+   "from": "Pouria",
+   "from_id": "user725838161",
+   "text": "چطور میشه دوتا امتحان رو باهم دیگه داد؟؟؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چطور میشه دوتا امتحان رو باهم دیگه داد؟؟؟"
+    }
+   ]
+  },
+  {
+   "id": 317412,
+   "type": "message",
+   "date": "2023-06-21T16:39:25",
+   "date_unixtime": "1687352965",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 317410,
+   "text": "عزیزم چرا ذهنت رو اذیت می کنی تو بازه امتحانات. اول من با دکتر گندمی هماهنگ کردیم و قرار شد که همه در یک روز بیان امتحان بدن و منم به شما اطلاع رسانی کردم و دکتر گندمی هم همین جور‌\nامروز دایره امتحانات بهم خبر دادن که هر گروه طبق مشخصه خودش و کارت ورود به جلسه امتحان می گیرن.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "عزیزم چرا ذهنت رو اذیت می کنی تو بازه امتحانات. اول من با دکتر گندمی هماهنگ کردیم و قرار شد که همه در یک روز بیان امتحان بدن و منم به شما اطلاع رسانی کردم و دکتر گندمی هم همین جور‌\nامروز دایره امتحانات بهم خبر دادن که هر گروه طبق مشخصه خودش و کارت ورود به جلسه امتحان می گیرن."
+    }
+   ]
+  },
+  {
+   "id": 317413,
+   "type": "message",
+   "date": "2023-06-21T16:40:05",
+   "date_unixtime": "1687353005",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "این منم که باید دو نوع سوال طرح کنم شما که یه روز طبق ابلاغ تون امتحان میدین😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "این منم که باید دو نوع سوال طرح کنم شما که یه روز طبق ابلاغ تون امتحان میدین😉"
+    }
+   ]
+  },
+  {
+   "id": 317414,
+   "type": "message",
+   "date": "2023-06-21T16:41:29",
+   "date_unixtime": "1687353089",
+   "from": "Pouria",
+   "from_id": "user725838161",
+   "text": "استاد برا اینکه ذهن ها ازیت نشه یه رحمی بکند و سوالا امتحان بگد چیا هه که ازیت نشیم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد برا اینکه ذهن ها ازیت نشه یه رحمی بکند و سوالا امتحان بگد چیا هه که ازیت نشیم"
+    }
+   ]
+  },
+  {
+   "id": 317415,
+   "type": "message",
+   "date": "2023-06-21T16:41:44",
+   "date_unixtime": "1687353104",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "استاد اکثر دانشجو ها روز یازدهم ساعت ۲ امتحان درس استاد سیما عمادی رو هم دارن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد اکثر دانشجو ها روز یازدهم ساعت ۲ امتحان درس استاد سیما عمادی رو هم دارن"
+    }
+   ]
+  },
+  {
+   "id": 317416,
+   "type": "message",
+   "date": "2023-06-21T16:41:45",
+   "date_unixtime": "1687353105",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 317413,
+   "text": "استاد شما دوتا سوال باید طرح کنید\nماهم باید دوتا درس امتحان بدیم\nبنظرتون همون توان و دقت رو میتونیم بزاریم رو امتحان؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد شما دوتا سوال باید طرح کنید\nماهم باید دوتا درس امتحان بدیم\nبنظرتون همون توان و دقت رو میتونیم بزاریم رو امتحان؟"
+    }
+   ]
+  },
+  {
+   "id": 317417,
+   "type": "message",
+   "date": "2023-06-21T16:42:17",
+   "date_unixtime": "1687353137",
+   "edited": "2023-06-21T16:42:22",
+   "edited_unixtime": "1687353142",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 317399,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    " \nاین کارت ورود ب جلسه رو نگاه کنید استاد"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    {
+     "type": "plain",
+     "text": " \nاین کارت ورود ب جلسه رو نگاه کنید استاد"
+    }
+   ]
+  },
+  {
+   "id": 317418,
+   "type": "message",
+   "date": "2023-06-21T16:42:26",
+   "date_unixtime": "1687353146",
+   "from": "Pouria",
+   "from_id": "user725838161",
+   "reply_to_message_id": 317417,
+   "text": "منم همینه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "منم همینه"
+    }
+   ]
+  },
+  {
+   "id": 317419,
+   "type": "message",
+   "date": "2023-06-21T16:42:44",
+   "date_unixtime": "1687353164",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 317418,
+   "text": "همه ت این گروه ساعتی همینن مثل اینکه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "همه ت این گروه ساعتی همینن مثل اینکه"
+    }
+   ]
+  },
+  {
+   "id": 317420,
+   "type": "message",
+   "date": "2023-06-21T16:42:51",
+   "date_unixtime": "1687353171",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "من جدا از این دوتا یازدهم هم ۸ صب امتحان  ارم هم ۶ عصر",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من جدا از این دوتا یازدهم هم ۸ صب امتحان  ارم هم ۶ عصر"
+    }
+   ]
+  },
+  {
+   "id": 317533,
+   "type": "message",
+   "date": "2023-06-22T11:23:39",
+   "date_unixtime": "1687420419",
+   "from": "جواد",
+   "from_id": "user570615414",
+   "reply_to_message_id": 317395,
+   "text": "بله انصافه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بله انصافه"
+    }
+   ]
+  },
+  {
+   "id": 317534,
+   "type": "message",
+   "date": "2023-06-22T11:24:38",
+   "date_unixtime": "1687420478",
+   "from": "جواد",
+   "from_id": "user570615414",
+   "text": "😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂"
+    }
+   ]
+  },
+  {
+   "id": 317535,
+   "type": "message",
+   "date": "2023-06-22T14:27:30",
+   "date_unixtime": "1687431450",
+   "edited": "2023-06-24T08:14:13",
+   "edited_unixtime": "1687581853",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 317395,
+   "text": "سلام\nفعلا بخونید و آمادگی داشته باشید ببینیم چی میشه.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nفعلا بخونید و آمادگی داشته باشید ببینیم چی میشه."
+    }
+   ]
+  },
+  {
+   "id": 317960,
+   "type": "message",
+   "date": "2023-06-24T17:40:57",
+   "date_unixtime": "1687615857",
+   "edited": "2023-06-24T17:41:09",
+   "edited_unixtime": "1687615869",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": [
+    "سلام استاد\nمشخص نشد اخر ۵ ام امتحانه یا ۱۱؟\n",
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام استاد\nمشخص نشد اخر ۵ ام امتحانه یا ۱۱؟\n"
+    },
+    {
+     "type": "mention",
+     "text": "@Aghaee_Maybodi"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 317962,
+   "type": "message",
+   "date": "2023-06-24T20:03:12",
+   "date_unixtime": "1687624392",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "text": "استاد نمیشه ما بین این دوتا تاریخ بیاییم واسه امتحان دست خودتونه که ماشاالله...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد نمیشه ما بین این دوتا تاریخ بیاییم واسه امتحان دست خودتونه که ماشاالله..."
+    }
+   ]
+  },
+  {
+   "id": 317966,
+   "type": "message",
+   "date": "2023-06-24T20:44:31",
+   "date_unixtime": "1687626871",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "سلام\nاه دست من بود که گل بود همه چیز.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nاه دست من بود که گل بود همه چیز."
+    }
+   ]
+  },
+  {
+   "id": 317967,
+   "type": "message",
+   "date": "2023-06-24T20:44:49",
+   "date_unixtime": "1687626889",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "الان استاد تکلیف چیع",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "الان استاد تکلیف چیع"
+    }
+   ]
+  },
+  {
+   "id": 317968,
+   "type": "message",
+   "date": "2023-06-24T20:44:56",
+   "date_unixtime": "1687626896",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "۵م بیایم ۱۱م بیایم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "۵م بیایم ۱۱م بیایم"
+    }
+   ]
+  },
+  {
+   "id": 317969,
+   "type": "message",
+   "date": "2023-06-24T20:44:58",
+   "date_unixtime": "1687626898",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "نیایم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "نیایم"
+    }
+   ]
+  },
+  {
+   "id": 317970,
+   "type": "message",
+   "date": "2023-06-24T20:46:08",
+   "date_unixtime": "1687626968",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "فعلا طبق نظر امتحانات ۱۱ ام باید بیایید. یعنی طبق ابلاغ.\nخدا می دونه چقدر من و دکتر گندمی به هر دری زدیم.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "فعلا طبق نظر امتحانات ۱۱ ام باید بیایید. یعنی طبق ابلاغ.\nخدا می دونه چقدر من و دکتر گندمی به هر دری زدیم."
+    }
+   ]
+  },
+  {
+   "id": 317975,
+   "type": "message",
+   "date": "2023-06-24T20:47:29",
+   "date_unixtime": "1687627049",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "بازم شما آمادگی داشته باشید اگه تونستیم کاری کنیم سریع بهتون میگیم که اونهایی که می خوان ۵ بیان. ولی فعلا  همه طبق ابلاغ باید بیایید.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بازم شما آمادگی داشته باشید اگه تونستیم کاری کنیم سریع بهتون میگیم که اونهایی که می خوان ۵ بیان. ولی فعلا  همه طبق ابلاغ باید بیایید."
+    }
+   ]
+  },
+  {
+   "id": 317976,
+   "type": "message",
+   "date": "2023-06-24T20:48:17",
+   "date_unixtime": "1687627097",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "یعنی گروه شما که ۳۳ نفر هستید میشه ۱۱ ام تیر ماه.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "یعنی گروه شما که ۳۳ نفر هستید میشه ۱۱ ام تیر ماه."
+    }
+   ]
+  },
+  {
+   "id": 317988,
+   "type": "message",
+   "date": "2023-06-24T22:15:54",
+   "date_unixtime": "1687632354",
+   "edited": "2023-06-24T23:38:56",
+   "edited_unixtime": "1687637336",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "reply_to_message_id": 317966,
+   "text": "اگر چهارتا مسئول مث شما داشتیم ک همه چی حل بود استاااد\nبازم ممنون استاد❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگر چهارتا مسئول مث شما داشتیم ک همه چی حل بود استاااد\nبازم ممنون استاد❤️"
+    }
+   ]
+  },
+  {
+   "id": 317989,
+   "type": "message",
+   "date": "2023-06-24T22:23:21",
+   "date_unixtime": "1687632801",
+   "from": "@*.*Amin*.*@",
+   "from_id": "user102502454",
+   "text": "سلام استاد ما ۱۱ام دوتا امتحان دارم ساعت ۲ چکارکنم نمی تونم که دوتا امتحان را ساعت ۲ بدیم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام استاد ما ۱۱ام دوتا امتحان دارم ساعت ۲ چکارکنم نمی تونم که دوتا امتحان را ساعت ۲ بدیم"
+    }
+   ]
+  },
+  {
+   "id": 317990,
+   "type": "message",
+   "date": "2023-06-24T23:39:32",
+   "date_unixtime": "1687637372",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 317989,
+   "text": "بله یه گروه از بچه ها با امتحان دکتر عمادی تداخل دارند.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بله یه گروه از بچه ها با امتحان دکتر عمادی تداخل دارند."
+    }
+   ]
+  },
+  {
+   "id": 317991,
+   "type": "message",
+   "date": "2023-06-24T23:40:31",
+   "date_unixtime": "1687637431",
+   "edited": "2023-06-25T13:09:36",
+   "edited_unixtime": "1687685976",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "اول بیایید سرجلسه سیستم عامل و به مراقب بگین امتحان دیگه هم دارید.  این برگه که دادین برگه دوم را بهتون میدن. فقط از حوزه نباید بیرون برین",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اول بیایید سرجلسه سیستم عامل و به مراقب بگین امتحان دیگه هم دارید.  این برگه که دادین برگه دوم را بهتون میدن. فقط از حوزه نباید بیرون برین"
+    }
+   ]
+  },
+  {
+   "id": 317992,
+   "type": "message",
+   "date": "2023-06-24T23:41:35",
+   "date_unixtime": "1687637495",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "چون من باید منتظر باشم برگه ها رو بگیرم برگردم میبد",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چون من باید منتظر باشم برگه ها رو بگیرم برگردم میبد"
+    }
+   ]
+  },
+  {
+   "id": 317993,
+   "type": "message",
+   "date": "2023-06-24T23:41:36",
+   "date_unixtime": "1687637496",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "باید برید بخش برگزاری امتحانات فرمشو پر کنید",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "باید برید بخش برگزاری امتحانات فرمشو پر کنید"
+    }
+   ]
+  },
+  {
+   "id": 317995,
+   "type": "message",
+   "date": "2023-06-24T23:42:52",
+   "date_unixtime": "1687637572",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد چون ساعت امتحان درس استاد عمادی دو هست احتمالا ابتدا امتحان درس استاد عمادی رو باید بدیم بعد برگه سوال شمارو بگیریم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد چون ساعت امتحان درس استاد عمادی دو هست احتمالا ابتدا امتحان درس استاد عمادی رو باید بدیم بعد برگه سوال شمارو بگیریم"
+    }
+   ]
+  },
+  {
+   "id": 317996,
+   "type": "message",
+   "date": "2023-06-24T23:43:16",
+   "date_unixtime": "1687637596",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "امتحان سیستم عامل هم ساعتش ۲ هست",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "امتحان سیستم عامل هم ساعتش ۲ هست"
+    }
+   ]
+  },
+  {
+   "id": 317997,
+   "type": "message",
+   "date": "2023-06-24T23:43:36",
+   "date_unixtime": "1687637616",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "فرقی نداره خودتون انتخاب میکنید سر کدوم امتحام بشینید اون یکی رو بردتون بیارن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "فرقی نداره خودتون انتخاب میکنید سر کدوم امتحام بشینید اون یکی رو بردتون بیارن"
+    }
+   ]
+  },
+  {
+   "id": 317998,
+   "type": "message",
+   "date": "2023-06-24T23:43:47",
+   "date_unixtime": "1687637627",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "امتحان من ۷۰ دقیقه وقت داره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "امتحان من ۷۰ دقیقه وقت داره"
+    }
+   ]
+  },
+  {
+   "id": 318000,
+   "type": "message",
+   "date": "2023-06-24T23:44:29",
+   "date_unixtime": "1687637669",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "استاد تورک خدا من ۱۱ تیر ۴ تا امتحان تو یه روز داریم امتحانو راحت بگیرید",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد تورک خدا من ۱۱ تیر ۴ تا امتحان تو یه روز داریم امتحانو راحت بگیرید"
+    }
+   ]
+  },
+  {
+   "id": 318001,
+   "type": "message",
+   "date": "2023-06-24T23:44:56",
+   "date_unixtime": "1687637696",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد دوتا‌امتحان تخصصی سنگین راحت باشه سوالا",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد دوتا‌امتحان تخصصی سنگین راحت باشه سوالا"
+    }
+   ]
+  },
+  {
+   "id": 318002,
+   "type": "message",
+   "date": "2023-06-24T23:45:08",
+   "date_unixtime": "1687637708",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "reply_to_message_id": 318001,
+   "text": "من ۴ تاش تخصصیه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من ۴ تاش تخصصیه"
+    }
+   ]
+  },
+  {
+   "id": 318003,
+   "type": "message",
+   "date": "2023-06-24T23:45:28",
+   "date_unixtime": "1687637728",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 318002,
+   "text": "ب نظرم از این ترم لف بده",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ب نظرم از این ترم لف بده"
+    }
+   ]
+  },
+  {
+   "id": 318004,
+   "type": "message",
+   "date": "2023-06-24T23:45:47",
+   "date_unixtime": "1687637747",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318001,
+   "text": "سوال ها سخت نیست. یه ساعته جواب میدین.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سوال ها سخت نیست. یه ساعته جواب میدین."
+    }
+   ]
+  },
+  {
+   "id": 318005,
+   "type": "message",
+   "date": "2023-06-24T23:45:57",
+   "date_unixtime": "1687637757",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "۸ صب یکیشه \nساعت ۲ دوتا \n۶ عصرم یه امتحان",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "۸ صب یکیشه \nساعت ۲ دوتا \n۶ عصرم یه امتحان"
+    }
+   ]
+  },
+  {
+   "id": 318006,
+   "type": "message",
+   "date": "2023-06-24T23:46:01",
+   "date_unixtime": "1687637761",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "سوال ها رو تحویل دادم چند روز پیش",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سوال ها رو تحویل دادم چند روز پیش"
+    }
+   ]
+  },
+  {
+   "id": 318007,
+   "type": "message",
+   "date": "2023-06-24T23:46:20",
+   "date_unixtime": "1687637780",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318005,
+   "text": "خیلی سخته",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خیلی سخته"
+    }
+   ]
+  },
+  {
+   "id": 318008,
+   "type": "message",
+   "date": "2023-06-24T23:46:35",
+   "date_unixtime": "1687637795",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد تعریفیارو بگین مسائلش با خودمون",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد تعریفیارو بگین مسائلش با خودمون"
+    }
+   ]
+  },
+  {
+   "id": 318009,
+   "type": "message",
+   "date": "2023-06-24T23:46:40",
+   "date_unixtime": "1687637800",
+   "from": "Mahyar Mohammadi",
+   "from_id": "user5031016772",
+   "text": "خدا بخواد ۴ تاشو میوفتم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خدا بخواد ۴ تاشو میوفتم"
+    }
+   ]
+  },
+  {
+   "id": 318010,
+   "type": "message",
+   "date": "2023-06-24T23:47:01",
+   "date_unixtime": "1687637821",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318008,
+   "text": "😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😄"
+    }
+   ]
+  },
+  {
+   "id": 318011,
+   "type": "message",
+   "date": "2023-06-24T23:47:06",
+   "date_unixtime": "1687637826",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "تعریف ها یکی از کتاب دادم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تعریف ها یکی از کتاب دادم"
+    }
+   ]
+  },
+  {
+   "id": 318012,
+   "type": "message",
+   "date": "2023-06-24T23:47:18",
+   "date_unixtime": "1687637838",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "و مابقی از جزوه های تو کلاس درس دادم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "و مابقی از جزوه های تو کلاس درس دادم"
+    }
+   ]
+  },
+  {
+   "id": 318013,
+   "type": "message",
+   "date": "2023-06-24T23:47:24",
+   "date_unixtime": "1687637844",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "خوب شد؟؟؟؟؟؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خوب شد؟؟؟؟؟؟"
+    }
+   ]
+  },
+  {
+   "id": 318014,
+   "type": "message",
+   "date": "2023-06-24T23:47:53",
+   "date_unixtime": "1687637873",
+   "edited": "2023-06-24T23:48:15",
+   "edited_unixtime": "1687637895",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "چ صفحه ای از کتاب\nسوال اخرمه استاد🥹",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چ صفحه ای از کتاب\nسوال اخرمه استاد🥹"
+    }
+   ]
+  },
+  {
+   "id": 318015,
+   "type": "message",
+   "date": "2023-06-24T23:48:22",
+   "date_unixtime": "1687637902",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318014,
+   "text": "والا نمیدونم😄😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "والا نمیدونم😄😄"
+    }
+   ]
+  },
+  {
+   "id": 318016,
+   "type": "message",
+   "date": "2023-06-24T23:48:44",
+   "date_unixtime": "1687637924",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد ۲۰ تا صفحه کتاب برا ی سوال نمیصرفه خداییش",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد ۲۰ تا صفحه کتاب برا ی سوال نمیصرفه خداییش"
+    }
+   ]
+  },
+  {
+   "id": 318017,
+   "type": "message",
+   "date": "2023-06-24T23:49:04",
+   "date_unixtime": "1687637944",
+   "from": "Ftm.hashemi",
+   "from_id": "user1124693948",
+   "reply_to_message_id": 318015,
+   "text": "استاد چ فصلی🫣",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد چ فصلی🫣"
+    }
+   ]
+  },
+  {
+   "id": 318018,
+   "type": "message",
+   "date": "2023-06-24T23:49:05",
+   "date_unixtime": "1687637945",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318016,
+   "text": "اینم حرفیه👌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اینم حرفیه👌"
+    }
+   ]
+  },
+  {
+   "id": 318019,
+   "type": "message",
+   "date": "2023-06-24T23:49:23",
+   "date_unixtime": "1687637963",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "شب به خیررررررر",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "شب به خیررررررر"
+    }
+   ]
+  },
+  {
+   "id": 318020,
+   "type": "message",
+   "date": "2023-06-24T23:49:34",
+   "date_unixtime": "1687637974",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 318019,
+   "text": "حداقل فصلشو بگین یا مبحثشو استاااد",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حداقل فصلشو بگین یا مبحثشو استاااد"
+    }
+   ]
+  },
+  {
+   "id": 318021,
+   "type": "message",
+   "date": "2023-06-24T23:49:53",
+   "date_unixtime": "1687637993",
+   "from": "Ftm.hashemi",
+   "from_id": "user1124693948",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🥲",
+   "width": 382,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 318022,
+   "type": "message",
+   "date": "2023-06-24T23:50:00",
+   "date_unixtime": "1687638000",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😩",
+   "duration_seconds": 3,
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 318026,
+   "type": "message",
+   "date": "2023-06-25T01:01:10",
+   "date_unixtime": "1687642270",
+   "from": "-LOYΔLᴵᴿ",
+   "from_id": "user91794872",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🤕",
+   "duration_seconds": 3,
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 318028,
+   "type": "message",
+   "date": "2023-06-25T01:23:44",
+   "date_unixtime": "1687643624",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "reply_to_message_id": 318013,
+   "text": "استاد من جزومو گم کردم😐چ غلطی بکنم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد من جزومو گم کردم😐چ غلطی بکنم"
+    }
+   ]
+  },
+  {
+   "id": 318251,
+   "type": "message",
+   "date": "2023-06-25T13:47:19",
+   "date_unixtime": "1687688239",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "text": "سلام\nبچه ها با پیگیری ها و هماهنگی هایی که دکتر گندمی کردند و اصرار های مکرر مون قرار بر این شد هر کس آمادگی داره فردا بیاد امتحان  بده. فردا خودم هم هستم داخل حوزه.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nبچه ها با پیگیری ها و هماهنگی هایی که دکتر گندمی کردند و اصرار های مکرر مون قرار بر این شد هر کس آمادگی داره فردا بیاد امتحان  بده. فردا خودم هم هستم داخل حوزه."
+    }
+   ]
+  },
+  {
+   "id": 318252,
+   "type": "message",
+   "date": "2023-06-25T13:47:56",
+   "date_unixtime": "1687688276",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 318251,
+   "text": "استاد من میخوام ۱۱م بیام یهو ۱۱م نیام هیشکی نباشه🥺💔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد من میخوام ۱۱م بیام یهو ۱۱م نیام هیشکی نباشه🥺💔"
+    }
+   ]
+  },
+  {
+   "id": 318253,
+   "type": "message",
+   "date": "2023-06-25T13:48:07",
+   "date_unixtime": "1687688287",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "۱۱م امتحان هست صد در صد دیگه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "۱۱م امتحان هست صد در صد دیگه؟"
+    }
+   ]
+  },
+  {
+   "id": 318254,
+   "type": "message",
+   "date": "2023-06-25T13:48:12",
+   "date_unixtime": "1687688292",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318252,
+   "text": "ای داد از دست شما😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ای داد از دست شما😅"
+    }
+   ]
+  },
+  {
+   "id": 318255,
+   "type": "message",
+   "date": "2023-06-25T13:48:26",
+   "date_unixtime": "1687688306",
+   "from": "Pouria",
+   "from_id": "user725838161",
+   "text": "استاد فردا ساعت امتحان همین 2 هست ؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد فردا ساعت امتحان همین 2 هست ؟"
+    }
+   ]
+  },
+  {
+   "id": 318256,
+   "type": "message",
+   "date": "2023-06-25T13:48:30",
+   "date_unixtime": "1687688310",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 318254,
+   "text": "😁🥲",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😁🥲"
+    }
+   ]
+  },
+  {
+   "id": 318257,
+   "type": "message",
+   "date": "2023-06-25T13:48:36",
+   "date_unixtime": "1687688316",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318253,
+   "text": "بله. دو نوع سوال متفاوت طرح شده",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بله. دو نوع سوال متفاوت طرح شده"
+    }
+   ]
+  },
+  {
+   "id": 318258,
+   "type": "message",
+   "date": "2023-06-25T13:48:46",
+   "date_unixtime": "1687688326",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318255,
+   "text": "بله",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بله"
+    }
+   ]
+  },
+  {
+   "id": 318259,
+   "type": "message",
+   "date": "2023-06-25T13:48:49",
+   "date_unixtime": "1687688329",
+   "edited": "2023-06-25T13:48:57",
+   "edited_unixtime": "1687688337",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 318257,
+   "text": "مرسی خسته هم نباشید❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "مرسی خسته هم نباشید❤️"
+    }
+   ]
+  },
+  {
+   "id": 318260,
+   "type": "message",
+   "date": "2023-06-25T13:49:08",
+   "date_unixtime": "1687688348",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "reply_to_message_id": 318257,
+   "text": "استاد دیگه چرا زحمت خودتون دادین😂\nسوالاشم داشتیم نمیخوندیم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد دیگه چرا زحمت خودتون دادین😂\nسوالاشم داشتیم نمیخوندیم"
+    }
+   ]
+  },
+  {
+   "id": 318261,
+   "type": "message",
+   "date": "2023-06-25T13:49:18",
+   "date_unixtime": "1687688358",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "text": "دمتون گرم استاد بازم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمتون گرم استاد بازم"
+    }
+   ]
+  },
+  {
+   "id": 318262,
+   "type": "message",
+   "date": "2023-06-25T13:49:26",
+   "date_unixtime": "1687688366",
+   "from": "Ftm.hashemi",
+   "from_id": "user1124693948",
+   "reply_to_message_id": 318251,
+   "text": "ممنون استاد😍❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ممنون استاد😍❤️"
+    }
+   ]
+  },
+  {
+   "id": 318263,
+   "type": "message",
+   "date": "2023-06-25T13:49:42",
+   "date_unixtime": "1687688382",
+   "edited": "2023-06-25T13:50:19",
+   "edited_unixtime": "1687688419",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318260,
+   "text": "میترسم یه سوال رو دوبار هم بگیرم اشتباه بنویسید😉😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "میترسم یه سوال رو دوبار هم بگیرم اشتباه بنویسید😉😄"
+    }
+   ]
+  },
+  {
+   "id": 318264,
+   "type": "message",
+   "date": "2023-06-25T13:50:02",
+   "date_unixtime": "1687688402",
+   "edited": "2023-06-25T13:50:14",
+   "edited_unixtime": "1687688414",
+   "from": "ᴬᵐⁱʳ",
+   "from_id": "user5604542998",
+   "reply_to_message_id": 318263,
+   "text": "😂از من بعید نیست 😂😂❤️\nدمتون گرم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂از من بعید نیست 😂😂❤️\nدمتون گرم"
+    }
+   ]
+  },
+  {
+   "id": 318265,
+   "type": "message",
+   "date": "2023-06-25T13:50:15",
+   "date_unixtime": "1687688415",
+   "edited": "2023-06-25T13:50:35",
+   "edited_unixtime": "1687688435",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد دیگه تمرکز رو گذاشتیم واسه امتحان بعدی\nایشالله ۱۱ هم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد دیگه تمرکز رو گذاشتیم واسه امتحان بعدی\nایشالله ۱۱ هم"
+    }
+   ]
+  },
+  {
+   "id": 318266,
+   "type": "message",
+   "date": "2023-06-25T13:50:50",
+   "date_unixtime": "1687688450",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318265,
+   "text": "اینقدر چونه زدید حالا میگی ۱۱ میایی؟😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اینقدر چونه زدید حالا میگی ۱۱ میایی؟😄"
+    }
+   ]
+  },
+  {
+   "id": 318267,
+   "type": "message",
+   "date": "2023-06-25T13:50:53",
+   "date_unixtime": "1687688453",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "استاد حفظیا و مسئله ها کلا تستیه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد حفظیا و مسئله ها کلا تستیه؟"
+    }
+   ]
+  },
+  {
+   "id": 318268,
+   "type": "message",
+   "date": "2023-06-25T13:51:03",
+   "date_unixtime": "1687688463",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318267,
+   "text": "همه تشریحیه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "همه تشریحیه"
+    }
+   ]
+  },
+  {
+   "id": 318269,
+   "type": "message",
+   "date": "2023-06-25T13:51:28",
+   "date_unixtime": "1687688488",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 318266,
+   "text": "استاد تا سوم امید داشتم اطلاع رسانی بشه نشد دیگه منم نخوندم😔😐",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد تا سوم امید داشتم اطلاع رسانی بشه نشد دیگه منم نخوندم😔😐"
+    }
+   ]
+  },
+  {
+   "id": 318270,
+   "type": "message",
+   "date": "2023-06-25T13:51:28",
+   "date_unixtime": "1687688488",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 318268,
+   "text": "اوکی ممنون❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اوکی ممنون❤️"
+    }
+   ]
+  },
+  {
+   "id": 318271,
+   "type": "message",
+   "date": "2023-06-25T13:51:44",
+   "date_unixtime": "1687688504",
+   "edited": "2023-06-25T13:52:00",
+   "edited_unixtime": "1687688520",
+   "from": "Aghaee",
+   "from_id": "user56589251",
+   "reply_to_message_id": 318269,
+   "text": "انشالله یازدهم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "انشالله یازدهم"
+    }
+   ]
+  },
+  {
+   "id": 318573,
+   "type": "message",
+   "date": "2023-07-01T21:20:14",
+   "date_unixtime": "1688233814",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "فرق lru و fifo رو ی نفر میگه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "فرق lru و fifo رو ی نفر میگه"
+    }
+   ]
+  },
+  {
+   "id": 318574,
+   "type": "message",
+   "date": "2023-07-01T21:20:16",
+   "date_unixtime": "1688233816",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "مرسی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "مرسی"
+    }
+   ]
+  },
+  {
+   "id": 318575,
+   "type": "message",
+   "date": "2023-07-01T21:20:19",
+   "date_unixtime": "1688233819",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😕",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 318576,
+   "type": "message",
+   "date": "2023-07-01T21:28:08",
+   "date_unixtime": "1688234288",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "text": "ممنون از توجهتون😕",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ممنون از توجهتون😕"
+    }
+   ]
+  },
+  {
+   "id": 318577,
+   "type": "message",
+   "date": "2023-07-01T21:31:53",
+   "date_unixtime": "1688234513",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "هرکس سوال بالایی رو جواب داد \nچنتا عیب قطعه بندی رو هم بگه بطور خلاصه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "هرکس سوال بالایی رو جواب داد \nچنتا عیب قطعه بندی رو هم بگه بطور خلاصه"
+    }
+   ]
+  },
+  {
+   "id": 318584,
+   "type": "message",
+   "date": "2023-07-01T22:42:50",
+   "date_unixtime": "1688238770",
+   "edited": "2023-07-01T22:45:35",
+   "edited_unixtime": "1688238935",
+   "from": "Manucher Manucheri Nia",
+   "from_id": "user128227687",
+   "reply_to_message_id": 318573,
+   "text": "الگوریتم LRU وقتی عددی بخواد وارد قاب هامون بشه که از قبل تو قابمون وجود داره ، اون عدد به بالا میاد و تو قاب 1 قرار میگیره ولی Fifo همون عددای توی قابمون عینا تکرار میشه و اون عدد به قاب 1 نمیاد",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "الگوریتم LRU وقتی عددی بخواد وارد قاب هامون بشه که از قبل تو قابمون وجود داره ، اون عدد به بالا میاد و تو قاب 1 قرار میگیره ولی Fifo همون عددای توی قابمون عینا تکرار میشه و اون عدد به قاب 1 نمیاد"
+    }
+   ]
+  },
+  {
+   "id": 318585,
+   "type": "message",
+   "date": "2023-07-01T22:44:33",
+   "date_unixtime": "1688238873",
+   "edited": "2023-07-01T23:21:56",
+   "edited_unixtime": "1688241116",
+   "from": "Manucher Manucheri Nia",
+   "from_id": "user128227687",
+   "reply_to_message_id": 318577,
+   "text": "پارگی خارجی : فضا های خالی کوچک و زیادی داریم اما نمیتونیم یک قطعه بزرگ را به حافظه بیاریم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "پارگی خارجی : فضا های خالی کوچک و زیادی داریم اما نمیتونیم یک قطعه بزرگ را به حافظه بیاریم"
+    }
+   ]
+  },
+  {
+   "id": 318587,
+   "type": "message",
+   "date": "2023-07-01T23:13:14",
+   "date_unixtime": "1688240594",
+   "edited": "2023-07-01T23:15:32",
+   "edited_unixtime": "1688240732",
+   "from": "مَحبوبَم🐿",
+   "from_id": "user1316674711",
+   "reply_to_message_id": 318584,
+   "text": "خیلی ممنون",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خیلی ممنون"
+    }
+   ]
+  },
+  {
+   "id": 318593,
+   "type": "message",
+   "date": "2023-07-01T23:45:31",
+   "date_unixtime": "1688242531",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "استاد نمیشه ی بار دیه بیاین مثالارو حل کنید\nهیچ ذهنیتی از اینکه الان جواب مثالو چجوری بدست اوردم ندارم بیشتر از خوندن دارم استدلال میکنم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "استاد نمیشه ی بار دیه بیاین مثالارو حل کنید\nهیچ ذهنیتی از اینکه الان جواب مثالو چجوری بدست اوردم ندارم بیشتر از خوندن دارم استدلال میکنم"
+    }
+   ]
+  },
+  {
+   "id": 318596,
+   "type": "message",
+   "date": "2023-07-02T00:03:48",
+   "date_unixtime": "1688243628",
+   "from": "Manucher Manucheri Nia",
+   "from_id": "user128227687",
+   "reply_to_message_id": 318593,
+   "text": "کدوم مثال مشکل دارین ؟!؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "کدوم مثال مشکل دارین ؟!؟"
+    }
+   ]
+  },
+  {
+   "id": 318597,
+   "type": "message",
+   "date": "2023-07-02T00:41:57",
+   "date_unixtime": "1688245917",
+   "edited": "2023-07-02T00:51:47",
+   "edited_unixtime": "1688246507",
+   "from": ":)",
+   "from_id": "user1302433938",
+   "text": "شما میتونید از هر کدوم ی مثال بزنین لطفا؟؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "شما میتونید از هر کدوم ی مثال بزنین لطفا؟؟"
+    }
+   ]
+  },
+  {
+   "id": 318598,
+   "type": "message",
+   "date": "2023-07-02T00:52:18",
+   "date_unixtime": "1688246538",
+   "from": "Manucher Manucheri Nia",
+   "from_id": "user128227687",
+   "reply_to_message_id": 318597,
+   "text": "😐😐 از هر کدوم که 15 تا الگوریتم هست . 15 تا مثال ؟!!!؟ 😐😐",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😐😐 از هر کدوم که 15 تا الگوریتم هست . 15 تا مثال ؟!!!؟ 😐😐"
+    }
+   ]
+  },
+  {
+   "id": 318599,
+   "type": "message",
+   "date": "2023-07-02T00:53:11",
+   "date_unixtime": "1688246591",
+   "from": ":)",
+   "from_id": "user1302433938",
+   "text": "😐🙄15 تا",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😐🙄15 تا"
+    }
+   ]
+  },
+  {
+   "id": 318600,
+   "type": "message",
+   "date": "2023-07-02T00:56:52",
+   "date_unixtime": "1688246812",
+   "edited": "2023-07-02T20:54:59",
+   "edited_unixtime": "1688318699",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "text": "😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂"
+    }
+   ]
+  },
+  {
+   "id": 318601,
+   "type": "message",
+   "date": "2023-07-02T00:59:59",
+   "date_unixtime": "1688246999",
+   "from": "Manucher Manucheri Nia",
+   "from_id": "user128227687",
+   "reply_to_message_id": 318599,
+   "text": "1.FCFS   2.SJF   3.RR   4.SRT   5.Priority   6.MFQ   7.LPT   8.Lottery\n1.First Fit   2.Next Fit   3.Best Fit   4.Worst Fit\n1.FIFO   2.LRU   3.Optimal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "1.FCFS   2.SJF   3.RR   4.SRT   5.Priority   6.MFQ   7.LPT   8.Lottery\n1.First Fit   2.Next Fit   3.Best Fit   4.Worst Fit\n1.FIFO   2.LRU   3.Optimal"
+    }
+   ]
+  },
+  {
+   "id": 318602,
+   "type": "message",
+   "date": "2023-07-02T01:01:28",
+   "date_unixtime": "1688247088",
+   "from": ":)",
+   "from_id": "user1302433938",
+   "text": "😢",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😢"
+    }
+   ]
+  },
+  {
+   "id": 318603,
+   "type": "message",
+   "date": "2023-07-02T01:01:50",
+   "date_unixtime": "1688247110",
+   "edited": "2023-07-02T01:03:36",
+   "edited_unixtime": "1688247216",
+   "from": "ܛܟܡܓ",
+   "from_id": "user5172257259",
+   "reply_to_message_id": 318601,
+   "text": "زیاد شد اخوی اینطور گفتی حس میکنم هیچی بلد نیستم استرس نده😐",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "زیاد شد اخوی اینطور گفتی حس میکنم هیچی بلد نیستم استرس نده😐"
+    }
+   ]
+  }
+ ]
+}
