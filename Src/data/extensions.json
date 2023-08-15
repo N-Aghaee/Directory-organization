@@ -1,0 +1,14 @@
+{
+    "images": [
+        ".jpeg",
+        ".png",
+        ".pig"
+    ],
+    "DDocument": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".xls",
+        ".csv"
+    ]
+}
