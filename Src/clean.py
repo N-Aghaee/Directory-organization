@@ -19,7 +19,7 @@ class Organize_file:
                 self.extensions_dest[ext] = dir_name
 
     def __call__(self):
-        logger.info("Hello")
+
         file_extension = []
 
         # Create destination directories outside the loop
